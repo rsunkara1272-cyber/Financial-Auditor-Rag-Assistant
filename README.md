@@ -67,3 +67,6 @@ Automated anomaly detection
 Integration with enterprise data sources
 Dashboard-style financial visualizations
 Agentic workflows for end-to-end audit automation
+
+</> Markdown
+![Financial Auditor Rag Assistant Architecture and AI](workflow.png)
