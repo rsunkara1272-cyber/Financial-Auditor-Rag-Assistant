@@ -1,0 +1,5 @@
+{
+  "name": "Financial Auditor RAG Assistant",
+  "description": "A professional tool for auditing financial documents using AI. Upload reports and ask questions with precise citations and markdown formatting.",
+  "requestFramePermissions": []
+}
